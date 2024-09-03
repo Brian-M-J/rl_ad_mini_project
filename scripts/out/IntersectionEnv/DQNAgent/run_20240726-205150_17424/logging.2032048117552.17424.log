@@ -1,0 +1,6 @@
+[rl_agents.trainer.evaluation:INFO] Loaded DQNAgent model from out\IntersectionEnv\DQNAgent\saved_models\latest.tar 
+[rl_agents.trainer.evaluation:INFO] Episode 0 score: 9.0 
+[rl_agents.trainer.evaluation:INFO] Episode 1 score: 9.0 
+[rl_agents.trainer.evaluation:INFO] Episode 2 score: 3.0 
+[rl_agents.trainer.evaluation:INFO] Episode 3 score: 2.0 
+[rl_agents.trainer.evaluation:INFO] Episode 4 score: 6.5 
